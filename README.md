@@ -5,15 +5,17 @@
 
 ##  Career Snapshot 🎥
 
-I am enthusiastic🚀about full stack development, challenging my passion for both front-end and back-end technologies, along with problem-solving in languages like C, C++, and Java.
+I am enthusiastic🚀about full stack development, challenging my passion for both front-end and back-end technologies, along with problem-solving in languages like C and Java.
 
 ## Skills
 
-**Coding:** C, Cpp, Java
+**Coding:** C, Java
 
-**Frontend:** Html, Css, Js, React
+**Frontend:** Html, Css, React.js
 
 **Database:** Mysql
+
+**Backend:** Node.js
 
 ## Connect with me 🤝 
 
