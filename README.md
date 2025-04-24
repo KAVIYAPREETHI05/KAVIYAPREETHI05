@@ -19,9 +19,9 @@ I am enthusiastic🚀about full stack development, challenging my passion for bo
 
 ## Certifications 📜
 
-   - ### AWS Certified Cloud Practitioner 
+   - ### AWS Certified Cloud Practitioner  [Certificate](https://drive.google.com/file/d/1syIbrI-YnxVohb6JV32M9hzvuCydasU1/view?usp=drive_link)
 
-   - ### NPTEL - Programming in Java
+   - ### NPTEL - Programming in Java  [Certificate](https://drive.google.com/file/d/18IwApz2D5F0ALME2Tt2mlfCKFEvGVdaQ/view?usp=sharing)
 
 
 ## Connect with me 🤝 
