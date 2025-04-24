@@ -17,12 +17,19 @@ I am enthusiastic🚀about full stack development, challenging my passion for bo
 
 **Backend:** Node.js
 
+## Certifications 📜
+
+   - ### AWS Certified Cloud Practitioner 
+
+   - ### NPTEL - Programming in Java
+
+
 ## Connect with me 🤝 
 
 You can reach out to me via:
 
 - 📧 kaviyapreethi05@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/kaviyapreethi-p-260240299)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kaviyapreethi-p/)
 - 🎯[Leetcode](https://leetcode.com/u/KAVIYAPREETHI/)
 - 🎓[CodeChef](https://www.codechef.com/users/kaviyapreethip)
 
